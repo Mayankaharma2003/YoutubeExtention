@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+  }
+  
+  #recommendations {
+    margin-top: 20px;
+  }
+  
+  .video-thumbnail {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+  }
+  
+  .video-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  #get-recommendations {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #get-recommendations:hover {
+    background-color: #3e8e41;
+  }

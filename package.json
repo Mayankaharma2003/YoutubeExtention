@@ -1,0 +1,27 @@
+{
+  "name": "youtube_major",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "googleapis": "^144.0.0",
+    "html-webpack-plugin": "^5.6.3",
+    "mongodb": "^6.10.0",
+    "natural": "^8.0.1",
+    "numjs": "^0.16.1",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
